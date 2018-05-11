@@ -3,9 +3,6 @@
 
 The purpose of the Navy is to reproduce the Naval Battle between two processes using signals.
 
-## Compilation
-`make re`
-
 ## Usage
 ### Serveur
 `./navy pos.txt`
