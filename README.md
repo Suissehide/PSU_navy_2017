@@ -20,4 +20,4 @@ Example of pos in the folder `maps`<br />
 
 #
 
-Dev by Idoia Reinares and Leo Couffinhal
+Dev by [Idoia Reinares](https://github.com/IdoiaReina "Idoia's profile") and [Leo Couffinhal](https://github.com/Suissehide "Leo's profile")
